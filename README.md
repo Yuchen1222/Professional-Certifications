@@ -6,12 +6,12 @@
 
 ## 技術認證
 
-### [NVIDIA Omniverse 認證](./黃宇晨__NVIDIA_Omniverse認證.pdf)
+### [NVIDIA Omniverse 認證](https://github.com/Yuchen1222/Professional-Certifications/blob/main/黃宇晨__NVIDIA_Omniverse認證.pdf)
 
 - **核心能力**：掌握 NVIDIA Omniverse 平台之擴充功能開發技術。
 - **技術層面**：Omniverse Kit, Python, 3D Simulation.
 
-### SSE Python 程式設計認證
+### [SSE Python 程式設計認證](https://github.com/Yuchen1222/Professional-Certifications/blob/main/黃宇晨__SSE%20Python%20程式設計認證.pdf)
 
 - **核心能力**：具備 Python 程式設計基礎能力，通過 SSE 標準認證。
 - **技術層面**：Python, 基礎演算法, 資料結構.
