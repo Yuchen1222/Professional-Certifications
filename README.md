@@ -3,8 +3,6 @@
 # 專業認證與語言能力
 ### Professional Certifications & Language Proficiency
 
-收錄了我所取得的專業技術認證與語言能力證明。
-這些憑證代表了我在 **人工智慧（AI）**、**數據分析**、**專業視覺溝通** 等領域的基礎實力。
 
 </div>
 
