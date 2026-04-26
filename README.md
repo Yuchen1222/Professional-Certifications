@@ -25,7 +25,7 @@
 ---
 
 ## `02` &nbsp; 數據與分析　Data & Analytics
-
+Google Analytics 4 (GA4) 專業認證
 *Coming Soon*
 
 ---
