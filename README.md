@@ -28,7 +28,7 @@
 
 ## `02` &nbsp; 數據與分析　Data & Analytics
 
-&nbsp;&nbsp;&nbsp;&nbsp;**[Google Analytics 4（GA4）專業認證](https://github.com/Yuchen1222/Professional-Certifications/blob/main/GA4_Credential%20Verification.png)**
+&nbsp;&nbsp;&nbsp;&nbsp;**[Google Analytics 4（GA4）專業認證](https://github.com/Yuchen1222/Professional-Certifications/blob/main/GA4_Certification%20Verification.png)**
 
 &nbsp;&nbsp;&nbsp;&nbsp;核心能力：具備數位行銷數據分析與使用者行為追蹤能力。
 &nbsp;&nbsp;&nbsp;&nbsp;`Google Analytics 4` &nbsp; `數位行銷` &nbsp; `使用者行為分析`
