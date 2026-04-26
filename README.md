@@ -12,14 +12,14 @@
 
 ## `01` &nbsp; 技術認證　Technical Certifications
 
-&nbsp;&nbsp;&nbsp;&nbsp;**[NVIDIA Omniverse 認證](https://github.com/Yuchen1222/Professional-Certifications/blob/main/%E9%BB%83%E5%AE%87%E6%99%A8__NVIDIA_Omniverse%E8%AA%8D%E8%AD%89.pdf)**
+&nbsp;&nbsp;&nbsp;&nbsp;**[NVIDIA Omniverse 認證](https://github.com/Yuchen1222/Professional-Certifications/blob/main/NVIDIA_Omniverse%E8%AA%8D%E8%AD%89.pdf)**
 
 &nbsp;&nbsp;&nbsp;&nbsp;核心能力：掌握 NVIDIA Omniverse 平台之擴充功能開發技術。
 &nbsp;&nbsp;&nbsp;&nbsp;`Omniverse Kit` &nbsp; `Python` &nbsp; `3D Simulation`
 
 <br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;**[SSE Python 程式設計認證](https://github.com/Yuchen1222/Professional-Certifications/blob/main/%E9%BB%83%E5%AE%87%E6%99%A8__SSE%20Python%20%E7%A8%8B%E5%BC%8F%E8%A8%AD%E8%A8%88%E8%AA%8D%E8%AD%89.pdf)**
+&nbsp;&nbsp;&nbsp;&nbsp;**[SSE Python 程式設計認證](https://github.com/Yuchen1222/Professional-Certifications/blob/main/SSE%20Python%20%E7%A8%8B%E5%BC%8F%E8%A8%AD%E8%A8%88%E8%AA%8D%E8%AD%89.pdf)**
 
 &nbsp;&nbsp;&nbsp;&nbsp;核心能力：具備 Python 程式設計基礎能力，通過 SSE 標準認證。
 &nbsp;&nbsp;&nbsp;&nbsp;`Python` &nbsp; `基礎演算法` &nbsp; `資料結構`
