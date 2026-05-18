@@ -18,12 +18,9 @@
 &nbsp;&nbsp;&nbsp;&nbsp;`Omniverse Kit` &nbsp; `Python` &nbsp; `3D Simulation`
 
 <br>
-
-&nbsp;&nbsp;&nbsp;&nbsp;**[NVIDIA Jetson Nano AI 應用開發認證](https://github.com/Yuchen1222/Professional-Certifications/blob/main/NVIDIA Jetson Nano AI 應用開發認證.pdf)**
-
+&nbsp;&nbsp;&nbsp;&nbsp;**[NVIDIA Jetson Nano AI 應用開發認證](https://github.com/Yuchen1222/Professional-Certifications/blob/main/NVIDIA_Jetson_Nano_AI_應用開發認證.pdf)**
 &nbsp;&nbsp;&nbsp;&nbsp;核心能力：可於邊緣裝置部署 AI 模型，進行即時推論與應用開發。
-&nbsp;&nbsp;&nbsp;&nbsp;`Omniverse Kit` &nbsp; `Python` &nbsp; `3D Simulation`
-
+&nbsp;&nbsp;&nbsp;&nbsp;`Jetson Nano` &nbsp; `Edge AI` &nbsp; `即時推論`
 <br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;**[SSE Python 程式設計認證](https://github.com/Yuchen1222/Professional-Certifications/blob/main/SSE_Python.pdf)**
