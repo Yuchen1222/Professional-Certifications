@@ -19,7 +19,7 @@
 
 <br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;**[NVIDIA Jetson Nano AI 應用開發認證](https://github.com/Yuchen1222/Professional-Certifications/blob/main/NVIDIA_Jetson_Nano_AI.pdf)**
+&nbsp;&nbsp;&nbsp;&nbsp;**[NVIDIA Jetson Nano AI 應用開發認證](https://github.com/Yuchen1222/Professional-Certifications/blob/main/NVIDIA%20Jetson%20Nano%20AI%20%E6%87%89%E7%94%A8%E9%96%8B%E7%99%BC%E8%AA%8D%E8%AD%89.pdf)**
 
 &nbsp;&nbsp;&nbsp;&nbsp;核心能力：可於邊緣裝置部署 AI 模型，進行即時推論與應用開發。
 &nbsp;&nbsp;&nbsp;&nbsp;`Jetson Nano` &nbsp; `Edge AI` &nbsp; `即時推論`
